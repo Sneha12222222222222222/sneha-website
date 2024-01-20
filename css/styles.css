@@ -1,0 +1,97 @@
+
+h1{
+
+    margin-bottom: 0;
+    margin-top: 0;
+    color:#4F6F52;
+    font-size: 625%;
+    font-style:Oswald;
+}
+
+
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Dancing script',cursive;background-color: #AAD7D9;
+  margin:0;
+  height: 645px;
+  position: relative;
+}
+
+.firstdiv{
+  background-color: #AAD7D9;
+  margin:0;
+  height: 645px;
+  position: relative;
+}
+
+.middle-container{
+  margin-top: 250;
+  margin-left: 200;
+
+}
+.profile{
+  margin-top: -180;
+  margin-left: 550;
+  font-family: 'Times New Roman', Times, serif;
+}
+.skills{
+  margin-top: 150;
+  margin-left: 1000;
+}
+.txt1{
+  margin-top: -180;
+  margin-left: 750;
+  font-family: 'Times New Roman', Times, serif;
+}
+.web{
+  margin-top: -50;
+  margin-left: -800;
+}
+
+.txt2{
+  margin-top: -250;
+  margin-left: 550;
+  font-family: 'Times New Roman', Times, serif;
+}
+.intrest{
+  margin-top: 10;
+  margin-left: 1000;
+}
+.txt3{
+  margin-top: -180;
+  margin-left: 850;
+  font-family: 'Times New Roman', Times, serif;
+}
+.contact-me{
+  margin-top: 50;
+}
+
+.cloud1{
+  margin-left: -50%;
+  position: relative;
+
+}
+.hide{
+  margin-top: -150px;
+  margin-left: -250px;
+}
+.cloud2{
+  margin-right: -40%;
+  margin-top: -230px;
+  position: relative;
+}
+.cloud3{
+  margin-right: -40%;
+  margin-top: -230px;
+  position: relative;
+}
+.cloud4{
+  margin-left: -40%;
+  margin-top: -100px;
+  position: relative;
+}
+.mountain{
+  margin-top: -300px;
+
+}
